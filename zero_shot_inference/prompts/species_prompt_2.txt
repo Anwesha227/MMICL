@@ -1,0 +1,4 @@
+Identify the bird species shown in the image.
+Respond only in the following JSON format:
+{"common_name": "<common name>", "scientific_name": "<scientific name>"}
+Do not include any extra explanation or formatting. Return only the JSON object.

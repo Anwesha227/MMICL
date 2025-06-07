@@ -1,0 +1,3 @@
+Identify the bird species shown in the image.
+Respond only with a Python list of two strings: [common name, scientific name].
+Do not include any extra explanation.
